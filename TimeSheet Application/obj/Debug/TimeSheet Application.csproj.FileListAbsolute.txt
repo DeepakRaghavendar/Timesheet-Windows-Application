@@ -1,0 +1,9 @@
+C:\Users\35389\Desktop\Timesheet Application\TimeSheet Application\TimeSheet Application\bin\Debug\TimeSheet Application.exe.config
+C:\Users\35389\Desktop\Timesheet Application\TimeSheet Application\TimeSheet Application\bin\Debug\TimeSheet Application.exe
+C:\Users\35389\Desktop\Timesheet Application\TimeSheet Application\TimeSheet Application\bin\Debug\TimeSheet Application.pdb
+C:\Users\35389\Desktop\Timesheet Application\TimeSheet Application\TimeSheet Application\obj\Debug\TimeSheet_Application.TimeSheetForm.resources
+C:\Users\35389\Desktop\Timesheet Application\TimeSheet Application\TimeSheet Application\obj\Debug\TimeSheet_Application.Properties.Resources.resources
+C:\Users\35389\Desktop\Timesheet Application\TimeSheet Application\TimeSheet Application\obj\Debug\TimeSheet Application.csproj.GenerateResource.cache
+C:\Users\35389\Desktop\Timesheet Application\TimeSheet Application\TimeSheet Application\obj\Debug\TimeSheet Application.exe
+C:\Users\35389\Desktop\Timesheet Application\TimeSheet Application\TimeSheet Application\obj\Debug\TimeSheet Application.pdb
+C:\Users\35389\Desktop\Timesheet Application\TimeSheet Application\TimeSheet Application\obj\Debug\TimeSheet Application.csprojAssemblyReference.cache
